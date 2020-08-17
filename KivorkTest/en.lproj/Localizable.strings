@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  KivorkTest
+
+  Created by Adrian Tabirta on 8/17/20.
+  Copyright © 2020 Adrian Tabirta. All rights reserved.
+*/
+"profile"="Profile";
+"from"="From";
+"to"="To";
+"departure_date"="Departure date";
+"search"="Search";
+"country"="Country";
+"currency"="Currency";
+"company"="Company";
+"direct_fly"="Direct fly";
+"price"="Price";
+"no_data_title"="Empty";
+"no_data_message"="did not match any result.";
+"to_many_requests"="To many requests";
+"no_internet_connection"="No internet connection";
+
+

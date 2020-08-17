@@ -1,0 +1,48 @@
+
+/* Class = "UINavigationItem"; title = "Skyscanner"; ObjectID = "A6U-LI-fax"; */
+"A6U-LI-fax.title" = "Skyscanner";
+
+/* Class = "UITextField"; placeholder = "e.g: Kiv or Chisinau"; ObjectID = "AGg-lI-WaZ"; */
+"AGg-lI-WaZ.placeholder" = "e.g: Kiv or Chisinau";
+
+/* Class = "UILabel"; text = "Currency"; ObjectID = "BNN-3a-gZQ"; */
+"BNN-3a-gZQ.text" = "Currency";
+
+/* Class = "UIViewController"; title = "Skyscanner"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Skyscanner";
+
+/* Class = "UILabel"; text = "Departure date:"; ObjectID = "Biw-7X-JEA"; */
+"Biw-7X-JEA.text" = "Departure date:";
+
+/* Class = "UILabel"; text = "From:"; ObjectID = "Icr-vD-rzK"; */
+"Icr-vD-rzK.text" = "From:";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "Pmk-F5-BwT"; */
+"Pmk-F5-BwT.text" = "Country";
+
+/* Class = "UITextField"; text = "Moldova"; ObjectID = "QRA-Zg-cOs"; */
+"QRA-Zg-cOs.text" = "Moldova";
+
+/* Class = "UIViewController"; title = "Profile"; ObjectID = "QnE-Jt-Wf8"; */
+"QnE-Jt-Wf8.title" = "Profile";
+
+/* Class = "UITextField"; text = "USD - $"; ObjectID = "Qng-Y1-7gv"; */
+"Qng-Y1-7gv.text" = "USD - $";
+
+/* Class = "UINavigationController"; title = "skyscanner"; ObjectID = "RaE-au-w7r"; */
+"RaE-au-w7r.title" = "skyscanner";
+
+/* Class = "UITextField"; placeholder = "e.g: LN or London"; ObjectID = "YUy-RU-dsM"; */
+"YUy-RU-dsM.placeholder" = "e.g: LN or London";
+
+/* Class = "UIBarButtonItem"; title = "Profile"; ObjectID = "g6r-QG-6wf"; */
+"g6r-QG-6wf.title" = "Profile";
+
+/* Class = "UILabel"; text = "To:"; ObjectID = "tLs-e8-19X"; */
+"tLs-e8-19X.text" = "To:";
+
+/* Class = "UITextField"; placeholder = "select a date in future"; ObjectID = "w0q-3i-GlD"; */
+"w0q-3i-GlD.placeholder" = "select a date in future";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "yQ5-cb-m41"; */
+"yQ5-cb-m41.normalTitle" = "Search";

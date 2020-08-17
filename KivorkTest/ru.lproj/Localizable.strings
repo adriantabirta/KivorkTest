@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  KivorkTest
+
+  Created by Adrian Tabirta on 8/17/20.
+  Copyright © 2020 Adrian Tabirta. All rights reserved.
+*/
+"profile"="Профиль";
+"from"="Откуда";
+"to"="Куда";
+"departure_date"="Дата отбытия";
+"search"="Поиск";
+"country"="Страна";
+"currency"="Валюта";
+"company"="Компания";
+"direct_fly"="Прямой перелет";
+"price"="Цена";
+"no_data_title"="Пусто";
+"no_data_message"="ничего не было найдено";
+"to_many_requests"="слишком много запросов";
+"no_internet_connection"="Нет соединения с интернетом";
